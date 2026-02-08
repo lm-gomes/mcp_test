@@ -1,2 +1,3 @@
-# mcp_test
-A test repository
+# mcp test
+
+This is my mcp test
