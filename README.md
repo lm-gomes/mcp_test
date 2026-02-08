@@ -1,3 +1,1 @@
-# mcp test
-
-This is my mcp test
+my mcp test
